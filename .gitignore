@@ -1,0 +1,13 @@
+# Rust build output
+/target/
+**/target/
+target/
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Editor temporary files
+*.rs.bk
+*.swp
+*.tmp
